@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "300666342927",
+    "project_id": "evento-ee257",
+    "storage_bucket": "evento-ee257.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300666342927:android:6d98833ffa74a890ef5d7a",
+        "android_client_info": {
+          "package_name": "com.example.eventmanegmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300666342927-ms9ldr82cqkh2dp0ipk4optd1h5cr4dn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eventmanegmentsystem",
+            "certificate_hash": "c4ab4e7a30f00c752864f7cfa3c3b8ddf1c9b196"
+          }
+        },
+        {
+          "client_id": "300666342927-o4ntbv3i9epopdfgktcbojdjjdgfkeco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAObi7lmdhnac3Wg8_gdy0ZVz0qI-RPYUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300666342927-o4ntbv3i9epopdfgktcbojdjjdgfkeco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
